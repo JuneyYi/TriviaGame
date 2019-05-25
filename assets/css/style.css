@@ -1,0 +1,21 @@
+
+body {
+    background-image: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.template-joomspirit.com%2Ftemplate-joomla%2Ftemplate-101%2Fimages%2Fbackground%2Fspotlight-black-NR.jpg&f=1");
+}
+
+div {
+    background-color: beige;
+    width: 80%;
+    margin: 5% 10%;
+    padding: 20px 0px 100px 0px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px
+}
+
+.form {
+    padding: 20px;
+    font-size: 20px;
+}
